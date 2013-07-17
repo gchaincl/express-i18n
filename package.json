@@ -1,0 +1,13 @@
+{
+  "name": "express-i18n",
+  "description": "I18n Helper for Express",
+  "main": "./index",
+  "author": {
+    "name": "Gustaf Shin"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": ">= 1.4.4",
+    "yamljs": ">= 0.1.4"
+  }
+}
