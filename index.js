@@ -6,8 +6,7 @@ var fs   = require('fs'),
 module.exports = function(options) {
   var options = _.extend({
     'default': 'en',
-    'path'   : './locales/',
-    'helper' : 't'
+    'path'   : './locales/'
   }, options);
   options.path = process.cwd() + '/' + options.path;
   
