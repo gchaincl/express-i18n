@@ -1,6 +1,7 @@
 {
   "name": "express-i18n",
   "description": "I18n Helper for Express",
+  "repository": "git@github.com:gchaincl/express-i18n.git",
   "main": "./index",
   "author": {
     "name": "Gustaf Shin"
